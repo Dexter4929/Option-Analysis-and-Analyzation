@@ -31,7 +31,7 @@ The dashboard organizes four key market perspectives into a unified 2x2 grid:
 
 ## 🛠️ Tech Stack & Libraries
 
-* **Data Retrieval:** yfinance
+* **Data Retrieval:** `yfinance`
 * **Data Manipulation:** `pandas`, `numpy`
 * **Visualization:** `matplotlib`,`seaborn`
 
